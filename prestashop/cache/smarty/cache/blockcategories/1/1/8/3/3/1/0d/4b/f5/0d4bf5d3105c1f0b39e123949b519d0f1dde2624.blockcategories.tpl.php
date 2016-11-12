@@ -17,11 +17,11 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   ),
   'nocache_hash' => '138251327958277ecf997be5-94469566',
   'version' => 'Smarty-3.1.19',
-  'unifunc' => 'content_5827982cbdd627_34854663',
+  'unifunc' => 'content_582799a0e3e626_56455015',
   'has_nocache_code' => false,
   'cache_lifetime' => 31536000,
 ),true); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_5827982cbdd627_34854663')) {function content_5827982cbdd627_34854663($_smarty_tpl) {?><!-- Block categories module -->
+<?php if ($_valid && !is_callable('content_582799a0e3e626_56455015')) {function content_582799a0e3e626_56455015($_smarty_tpl) {?><!-- Block categories module -->
 <div id="categories_block_left" class="block">
 	<h2 class="title_block">
 					Femmes
@@ -67,9 +67,8 @@ $_valid = $_smarty_tpl->decodeProperties(array (
 												
 <li >
 	<a 
-	href="http://192.168.1.24:8080/prestashop_1.6.1.9/prestashop/index.php?id_category=9&amp;controller=category" title="Vous cherchez une robe pour la vie de tous les jours ? Découvrez 
- notre sélection de robes et trouvez celle qui vous convient.">
-		Robes décontractées
+	href="http://192.168.1.24:8080/prestashop_1.6.1.9/prestashop/index.php?id_category=9&amp;controller=category" title="Achète achète achète">
+		Tee-shirt Beloud
 	</a>
 	</li>
 

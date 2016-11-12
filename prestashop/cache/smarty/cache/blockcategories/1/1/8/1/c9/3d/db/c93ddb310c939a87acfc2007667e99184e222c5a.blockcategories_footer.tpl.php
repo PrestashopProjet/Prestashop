@@ -17,11 +17,11 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   ),
   'nocache_hash' => '20128071445827704c6520e4-46247588',
   'version' => 'Smarty-3.1.19',
-  'unifunc' => 'content_582797c60baf89_58916481',
+  'unifunc' => 'content_58279a60596b95_06357808',
   'has_nocache_code' => false,
   'cache_lifetime' => 31536000,
 ),true); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_582797c60baf89_58916481')) {function content_582797c60baf89_58916481($_smarty_tpl) {?>
+<?php if ($_valid && !is_callable('content_58279a60596b95_06357808')) {function content_58279a60596b95_06357808($_smarty_tpl) {?>
 <!-- Block categories module -->
 <section class="blockcategories_footer footer-block col-xs-12 col-sm-2">
 	<h4>Catégories</h4>
@@ -31,10 +31,9 @@ $_valid = $_smarty_tpl->decodeProperties(array (
 												
 <li class="last">
 	<a 
-	href="http://192.168.1.24:8080/prestashop_1.6.1.9/prestashop/index.php?id_category=3&amp;controller=category" title="Vous trouverez ici toutes les collections mode pour femmes.  
- Cette catégorie regroupe tous les basiques de votre garde-robe et bien plus encore : 
- chaussures, accessoires, T-shirts imprimés, robes élégantes et jeans pour femmes !">
-		Femmes
+	href="http://192.168.1.24:8080/prestashop_1.6.1.9/prestashop/index.php?id_category=3&amp;controller=category" title="Vous trouverez ici toutes les collections mode pour Hommes.  
+ Cette catégorie regroupe tous les basiques de ce genre de Tee-shirt bien NRV">
+		Hommes
 	</a>
 			<ul>
 												
@@ -68,17 +67,15 @@ $_valid = $_smarty_tpl->decodeProperties(array (
 																
 <li class="last">
 	<a 
-	href="http://192.168.1.24:8080/prestashop_1.6.1.9/prestashop/index.php?id_category=8&amp;controller=category" title="Trouvez votre nouvelle pièce préférée parmi une large sélection de robes décontractées, d&#039;été et de soirée ! 
- Nous avons des robes pour tous les styles et toutes les occasions.">
-		Robes
+	href="http://192.168.1.24:8080/prestashop_1.6.1.9/prestashop/index.php?id_category=8&amp;controller=category" title="Reste tranquille">
+		Tee-shirt Beloud
 	</a>
 			<ul>
 												
 <li >
 	<a 
-	href="http://192.168.1.24:8080/prestashop_1.6.1.9/prestashop/index.php?id_category=9&amp;controller=category" title="Vous cherchez une robe pour la vie de tous les jours ? Découvrez 
- notre sélection de robes et trouvez celle qui vous convient.">
-		Robes décontractées
+	href="http://192.168.1.24:8080/prestashop_1.6.1.9/prestashop/index.php?id_category=9&amp;controller=category" title="Achète achète achète">
+		Tee-shirt Beloud
 	</a>
 	</li>
 
