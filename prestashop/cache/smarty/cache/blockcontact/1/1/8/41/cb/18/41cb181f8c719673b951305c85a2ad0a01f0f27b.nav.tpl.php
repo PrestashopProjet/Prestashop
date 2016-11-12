@@ -11,11 +11,11 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   ),
   'nocache_hash' => '9143637595827704d22e240-63228938',
   'version' => 'Smarty-3.1.19',
-  'unifunc' => 'content_58277a08d3b675_58393876',
+  'unifunc' => 'content_582797c6356d01_79963134',
   'has_nocache_code' => false,
   'cache_lifetime' => 31536000,
 ),true); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_58277a08d3b675_58393876')) {function content_58277a08d3b675_58393876($_smarty_tpl) {?><div id="contact-link" >
+<?php if ($_valid && !is_callable('content_582797c6356d01_79963134')) {function content_582797c6356d01_79963134($_smarty_tpl) {?><div id="contact-link" >
 	<a href="http://192.168.1.24:8080/prestashop_1.6.1.9/prestashop/index.php?controller=contact" title="Contactez-nous">Contactez-nous</a>
 </div>
 	<span class="shop-phone">

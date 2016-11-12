@@ -11,11 +11,11 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   ),
   'nocache_hash' => '6437817655827704c2dae28-18870518',
   'version' => 'Smarty-3.1.19',
-  'unifunc' => 'content_58277a08bad729_25406420',
+  'unifunc' => 'content_582797c6065123_08506877',
   'has_nocache_code' => false,
   'cache_lifetime' => 31536000,
 ),true); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_58277a08bad729_25406420')) {function content_58277a08bad729_25406420($_smarty_tpl) {?><section id="social_block" class="pull-right">
+<?php if ($_valid && !is_callable('content_582797c6065123_08506877')) {function content_582797c6065123_08506877($_smarty_tpl) {?><section id="social_block" class="pull-right">
 	<ul>
 					<li class="facebook">
 				<a class="_blank" href="http://www.facebook.com/kangoobeloud">

@@ -11,29 +11,28 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   ),
   'nocache_hash' => '3064891385827704b12aaf3-20550528',
   'version' => 'Smarty-3.1.19',
-  'unifunc' => 'content_58277a08a232f4_32671730',
+  'unifunc' => 'content_582797c5c3bba2_96751006',
   'has_nocache_code' => false,
   'cache_lifetime' => 31536000,
 ),true); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_58277a08a232f4_32671730')) {function content_58277a08a232f4_32671730($_smarty_tpl) {?><!-- MODULE Block cmsinfo -->
+<?php if ($_valid && !is_callable('content_582797c5c3bba2_96751006')) {function content_582797c5c3bba2_96751006($_smarty_tpl) {?><!-- MODULE Block cmsinfo -->
 <div id="cmsinfo_block">
-					<div class="col-xs-6"><ul>
-<li><em class="icon-truck" id="icon-truck"></em>
+					<div class="col-xs-6"><ul><li><em class="icon-truck" id="icon-truck"></em>
 <div class="type-text">
-<h3>Lorem Ipsum</h3>
-<p>Lorem ipsum dolor sit amet conse ctetur voluptate velit esse cillum dolore eu</p>
+<h3>Livraison</h3>
+<p>Mamen c'est la hess faut venir à domicile</p>
 </div>
 </li>
 <li><em class="icon-phone" id="icon-phone"></em>
 <div class="type-text">
-<h3>Dolor Sit Amet</h3>
-<p>Lorem ipsum dolor sit amet conse ctetur voluptate velit esse cillum dolore eu</p>
+<h3>Contact</h3>
+<p>Par téléphone ou sur les réseaux sociaux</p>
 </div>
 </li>
 <li><em class="icon-credit-card" id="icon-credit-card"></em>
 <div class="type-text">
-<h3>Ctetur Voluptate</h3>
-<p>Lorem ipsum dolor sit amet conse ctetur voluptate velit esse cillum dolore eu</p>
+<h3>Paiement</h3>
+<p>Aucun chrome</p>
 </div>
 </li>
 </ul></div>

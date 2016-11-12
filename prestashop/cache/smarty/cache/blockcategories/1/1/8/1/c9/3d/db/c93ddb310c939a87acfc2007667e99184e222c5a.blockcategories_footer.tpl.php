@@ -17,11 +17,11 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   ),
   'nocache_hash' => '20128071445827704c6520e4-46247588',
   'version' => 'Smarty-3.1.19',
-  'unifunc' => 'content_58277a08bf4852_55589453',
+  'unifunc' => 'content_582797c60baf89_58916481',
   'has_nocache_code' => false,
   'cache_lifetime' => 31536000,
 ),true); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_58277a08bf4852_55589453')) {function content_58277a08bf4852_55589453($_smarty_tpl) {?>
+<?php if ($_valid && !is_callable('content_582797c60baf89_58916481')) {function content_582797c60baf89_58916481($_smarty_tpl) {?>
 <!-- Block categories module -->
 <section class="blockcategories_footer footer-block col-xs-12 col-sm-2">
 	<h4>Catégories</h4>
